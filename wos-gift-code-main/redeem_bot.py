@@ -116,4 +116,4 @@ async def redeem(ctx, code: str):
     result_message = await redeem_code(code)
     await ctx.send(result_message)
 
-bot.run("8b993da2fc910779d54b80d815d79445dfdec0b9bb7e6cc404aed9ced082075b")
+bot.run("#5648")
