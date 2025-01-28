@@ -1,8 +1,3 @@
-git init
-git add .
-git commit -m "Initial commit"
-
-
 import hashlib
 import json
 import time
